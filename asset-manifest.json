@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/timetotorchys/static/js/main.18d39b53.js",
+    "static/js/336.1fca6c16.js": "/timetotorchys/static/js/336.1fca6c16.js",
+    "favicon.ico": "/timetotorchys/favicon.ico",
+    "index.html": "/timetotorchys/index.html",
+    "favicon-32.png": "/timetotorchys/favicon-32.png",
+    "favicon-16.png": "/timetotorchys/favicon-16.png",
+    "manifest.json": "/timetotorchys/manifest.json",
+    "serve.json": "/timetotorchys/serve.json",
+    "main.18d39b53.js.map": "/timetotorchys/static/js/main.18d39b53.js.map",
+    "336.1fca6c16.js.map": "/timetotorchys/static/js/336.1fca6c16.js.map"
+  },
+  "entrypoints": [
+    "static/js/336.1fca6c16.js",
+    "static/js/main.18d39b53.js"
+  ]
+}
